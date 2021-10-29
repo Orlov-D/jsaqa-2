@@ -1,0 +1,22 @@
+{
+  "name": "dz_2",
+  "version": "1.0.0",
+  "description": "первый ёж",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlov-D/jsaqa-2.git"
+  },
+  "keywords": [
+    "jsaqa"
+  ],
+  "author": "Olrov Di",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orlov-D/jsaqa-2/issues"
+  },
+  "homepage": "https://github.com/Orlov-D/jsaqa-2#readme"
+}
